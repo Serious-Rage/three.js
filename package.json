@@ -3,7 +3,7 @@
   "version": "0.82.1",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
-  "repository": "mrdoob/three.js",
+  "repository": "Serious-Rage/three.js",
   "jsnext:main": "build/three.modules.js",
   "files": [
     "package.json",
@@ -41,9 +41,6 @@
   ],
   "author": "mrdoob",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mrdoob/three.js/issues"
-  },
   "homepage": "http://threejs.org/",
   "devDependencies": {
     "eslint": "^3.10.1",
